@@ -33,9 +33,4 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
 </div>
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/your-repo/path-to-your-svg/profile-green-animate.svg" height="200" alt="contribution graph" />
-</div>
 
