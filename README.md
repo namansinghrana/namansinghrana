@@ -3,8 +3,11 @@
 - 🔭 I’m currently working on My Skills
 - 🌱 I’m currently learning DSA..
 - 👯 I’m looking to collaborate on web development , projects, New techs.
-- 🤔 I’m looking for help with becoming a good coder 
-- 📫 How to reach me: @namanr738@gmail.com
+- 🤔 I’m looking for help with becoming a problem solver 
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahmii_mujtaba) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ahmad-mujtaba-b5b7a71b3/) 
 
 # 💻 Tech Stack:
 
