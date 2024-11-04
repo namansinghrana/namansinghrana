@@ -1,4 +1,5 @@
-![Minav Github](https://github.com/MinavKaria/MinavKaria/assets/119132631/809684d2-135a-4045-9d15-a0948028ad33)
+![Naman Singh Rana](https://github.com/user-attachments/assets/1883d8a4-2adc-45ea-8a21-7669b728bec2)
+
 
 
 <h1 align="center">Hi, guys! 👋</h1>
