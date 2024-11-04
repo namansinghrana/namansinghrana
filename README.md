@@ -26,13 +26,11 @@
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/MinavKaria)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/MinavKaria)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/MinavKaria)
-[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/MinavKaria)
 
 
 ### Technologies & Frameworks
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://github.com/MinavKaria)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://github.com/MinavKaria)
-[![PHP](https://img.shields.io/badge/PHP-black?style=for-the-badge&logo=php)](https://github.com/MinavKaria)
 [![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)](https://github.com/MinavKaria)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-black?style=for-the-badge&logo=tailwind-css)](https://github.com/MinavKaria) 
 [![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)](https://github.com/MinavKaria)
@@ -48,8 +46,6 @@
 [![NumPy](https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy)](https://github.com/MinavKaria/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/MinavKaria/)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-black?style=for-the-badge&logo=chart.js)](https://github.com/MinavKaria/)
-[![AWS](https://img.shields.io/badge/AWS-black?style=for-the-badge&logo=amazon)](https://github.com/MinavKaria/)
-[![Django](https://img.shields.io/badge/Django-black?style=for-the-badge&logo=django)](https://github.com/MinavKaria)
 
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/MinavKaria)
