@@ -1,4 +1,4 @@
-![Naman Singh Rana](https://github.com/user-attachments/assets/5690c918-3765-436d-bee0-d979f0dc7191)
+![Naman Singh Rana](https://github.com/user-attachments/assets/f4690d5f-2d3c-4264-a2e1-12fee4e4a7db)
 
 <h1 align="center">Hi, guys! 👋</h1>
 
