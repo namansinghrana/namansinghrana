@@ -74,6 +74,3 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinavKaria&theme=transparent" />
   </a>
 </details>
-
-<h2 align="center"><b>Visitor's Count</b></h2>
-<p align="center"><img src="https://profile-counter.glitch.me/MinavKaria/count.svg" alt="visitor badge"/></p>
