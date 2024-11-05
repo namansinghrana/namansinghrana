@@ -5,11 +5,11 @@
 <p align="center">
     <b>Welcome to my page!</b><br><br>
    <i>
-        I'm Naman Singh Rana, a passionate coder exploring the realms of technology.
+        Meet Naman Singh Rana, Flowing through different technologies.
     </i>
     <br>
     <br>
-    <a href="https://www.linkedin.com/in/minav-karia/">
+    <a href="https://www.linkedin.com/in/minav-karia/](https://www.linkedin.com/in/naman-rana-32827b217/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://leetcode.com/namansinghrana">
