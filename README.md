@@ -60,7 +60,7 @@
 <details>
 <p align="center">
   <a href="https://github.com/namansinghrana">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MinavKaria&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namansinghrana&theme=transparent" />
   </a>
   <a href="https://github.com/namansinghrana">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinavKaria&hide_border=true&card_width=338&theme=transparent" />
@@ -69,6 +69,7 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinavKaria&theme=transparent" />
   </a>
 </details>
+
 <details>	
  <summary><b>GSSOC(24) Badges 🪶</b></summary><br>
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
