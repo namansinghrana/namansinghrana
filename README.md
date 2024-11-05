@@ -12,7 +12,7 @@
     <a href="https://www.linkedin.com/in/minav-karia/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
-    <a href="https://leetcode.com/MinavKaria/">
+    <a href="https://leetcode.com/namansinghrana">
         <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode">
     </a>
 </p>
