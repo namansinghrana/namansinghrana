@@ -63,10 +63,10 @@
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=namansinghrana&theme=transparent" />
   </a>
   <a href="https://github.com/namansinghrana">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=MinavKaria&hide_border=true&card_width=338&theme=transparent" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=namansinghrana&hide_border=true&card_width=338&theme=transparent" />
   </a>
   <a href="https://github.com/namansinghrana">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MinavKaria&theme=transparent" />
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=namansinghrana&theme=transparent" />
   </a>
 </details>
 
