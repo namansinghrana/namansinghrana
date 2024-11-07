@@ -52,8 +52,6 @@
 
 
 ### Currently Working On
-
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-black?style=for-the-badge&logo=kubernetes)](https://github.com/namansinghrana/)
 [![DS/AI/ML](https://img.shields.io/badge/DS%2FAI%2FML-black?style=for-the-badge&logo=tensorflow)](https://www.tensorflow.org/)
 
 
