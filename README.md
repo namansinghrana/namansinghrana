@@ -9,7 +9,7 @@
     </i>
     <br>
     <br>
-    <a href="https://www.linkedin.com/in/naman-rana-32827b217/">
+    <a href="https://www.linkedin.com/in/namansinghrana">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
     <a href="https://leetcode.com/namansinghrana">
